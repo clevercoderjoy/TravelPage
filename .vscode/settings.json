@@ -1,0 +1,17 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "\"Fira Code\", Consolas, 'Courier New', monospace",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "Cascadia Code",
+    "terminal.integrated.fontSize": 16,
+    "html.format.wrapAttributes": "preserve",
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "liveServer.settings.CustomBrowser": "firefox:PrivateMode",
+    "cSpell.words": [
+        "clevercoderjoy's"
+    ]
+}
